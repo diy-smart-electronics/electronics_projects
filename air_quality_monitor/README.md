@@ -22,10 +22,10 @@ Components used:
 - USB C breakout board to get the power
 
 Powered on with all the components
-![Alt text](air_quality_monitor/images/1.jpg)
+![Alt text](images/1.jpg)
 When you touch the screen in a readings box its gives the legend about the displayed values
-![Alt text](air_quality_monitor/images/2.jpg)
+![Alt text](images/2.jpg)
 Components on the prototype board
-![Alt text](air_quality_monitor/images/3.jpg)
+![Alt text](images/3.jpg)
 Schematic Diagram
-![Alt text](air_quality_monitor/images/schematic.png)
+![Alt text](images/schematic.png)
